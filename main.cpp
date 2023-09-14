@@ -1,10 +1,17 @@
 #include <iostream>
+#include "funciones.h"
 
 using namespace std;
 
 int main()
 {
-    cout<<"Este texto coincide entre el archivo y el programa"<<endl;
+    int num1, num2, num3, mayor;
+    cout<<"Escriba 3 numeros:"<<endl;
+    cin>>num1>>num2>>num3;
+
+    mayor = mayorDe3(num1, num2, num3);
+
+    mensaje(mayor);
 
     return 0;
 }
