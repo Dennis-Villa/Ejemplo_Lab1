@@ -1,1 +1,1 @@
-Este texto coincide entre el archivo y el programa
+Este texto coincide entre el archivo y el program
