@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Esta es una modificacion"<<endl;
+    cout<<"Este texto coincide entre el archivo y el programa"<<endl;
 
     return 0;
 }

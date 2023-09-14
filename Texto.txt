@@ -1,1 +1,1 @@
-Solo unas lineas de texto
+Este texto coincide entre el archivo y el programa
