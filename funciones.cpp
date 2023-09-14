@@ -13,5 +13,5 @@ int mayorDe3 (int num1, int num2, int num3){
 }
 
 void mensaje(int num){
-    cout<<"El mayor de los numeros es "<<num<<endl;
+    cout<<"El mayor de los numeros es: "<<num<<endl;
 }
